@@ -9,5 +9,6 @@ public class GitTest {
         System.out.println("贾雨村");
         System.out.println("甄事隐");
         System.out.println("贾不假，白玉为床金做马");
+        System.out.println("丰年好大雪，珍珠如土金如铁");
     }
 }
